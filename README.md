@@ -20,7 +20,8 @@ Weather App is a simple and intuitive weather application built using **HTML, CS
 - **OpenWeatherMap API** - For real-time weather information
 
 ## 📷 Screenshot
-
+![FRONT PAGE](https://github.com/Shivam-avish235/Weather-App/blob/main/screenshot%201.png)
+![CITY](https://github.com/Shivam-avish235/Weather-App/blob/main/screenshot%202.png)
 
 
 ## ⚙️ Installation & Usage
@@ -45,4 +46,4 @@ Replace YOUR_API_KEY in the JavaScript file with your actual API key.
 - Dark mode toggle
 
 ### credit by
-Shivam Verma
+[Shivam Verma](https://github.com/Shivam-avish235)
